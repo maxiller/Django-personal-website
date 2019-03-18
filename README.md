@@ -10,4 +10,4 @@ Live example is [here](https://vlad-moroshan.herokuapp.com)
 * change into the new directory
 * Run the command `python manage.py runserver`
 * Open your web browser and enter the adress of your local server (usually its http://127.0.0.1:8000 )
-* If anything goes ugly, try to collect static files `python3 manage.py collectstatic`
+* If anything goes ugly, try to collect static files `python manage.py collectstatic`
